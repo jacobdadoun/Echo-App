@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_echo">Input a message to Echo!</string>
+    <string name="echo_msg">Echo Input Box</string>
+    <string name="button_text">Echo!</string>
+    <string name="jacob_dadoun_text">Echo v1.0.0 by Jacob Dadoun</string>
+</resources>

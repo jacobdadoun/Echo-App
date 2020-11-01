@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Echo</string>
+
+    <string name="input_echo">Input a message to Echo!</string>
+    <string name="input_echo_msg">input a echo message</string>
+    <string name="button_text">Echo!</string>
+    <string name="jacob_dadoun_text">Echo v1.0.0 by Jacob Dadoun</string>
+</resources>
